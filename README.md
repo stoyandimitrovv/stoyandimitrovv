@@ -1,7 +1,14 @@
-### Hi there 👋
-I’m currently studying Software Engineering with C#.\
-How to reach me: [LinkedIn](https://www.linkedin.com/in/stoyan-dimitrov-70487a248/)\
-Email: stoqnd1999@gmail.com \
+<h2 align="center">Hi there 👋</h1> 
+I’m currently studying Software Engineering with C#.<br/>
+<br/>
+How to reach me:
+</a>
+<a href="https://www.linkedin.com/in/stoyan-dimitrov-70487a248/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a><br/>
+<br/>
+Email: stoqnd1999@gmail.com <br/>
+<br/>
 My sertificates
 <div align="lefr">  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101105832/184683259-bc9d2124-2c7a-4962-b86f-a9b24a5fb744.png" height="350" />  
