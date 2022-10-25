@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h1> 
-I’m currently studying Software Engineering with C#.<br/>
+I’m currently studying for a C# Web Developer.<br/>
 <br/>
 </a>
 <a href="https://www.linkedin.com/in/stoyan-dimitrov-70487a248/" target="_blank">
