@@ -8,8 +8,7 @@ I’m currently studying for a C# Web Developer.<br/>
 <br/>
 Email: stoqnd1999@gmail.com <br/>
 <br/>
-My sertificates
-<div align="lefr">  
+<div>  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101105832/184683259-bc9d2124-2c7a-4962-b86f-a9b24a5fb744.png" height="350" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101105832/184683441-2db55270-60d4-4df2-9d69-2727afe7d0b4.png" height="350" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101105832/184683506-78545966-7476-4e37-8d46-e661f4acb34d.png" height="350" />
