@@ -6,7 +6,7 @@ I’m currently studying for a C# Web Developer.<br/>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a><br/>
 <br/>
-Email: stoqnd1999@gmail.com <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?stoyandimitrovv=CharalambosIoannou&theme=tokyonight)
 <br/>
 <div>  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101105832/184683259-bc9d2124-2c7a-4962-b86f-a9b24a5fb744.png" height="350" />  
