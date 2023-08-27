@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h1> 
 
-I am passionate about building web applications and I am highly enthusiastic about learning new technologies and skills. I am currently using ASP.NET Core. My hobbies are sports and traveling, also I used to be a professional volleyball player for the past 6 years. I am excited about the opportunity to work in a team and to learn..<br/>
+I am passionate about building web applications and I am highly enthusiastic about learning new technologies and skills.<br/>
 
 </a>
 <a href="https://www.linkedin.com/in/stoyan-dimitrov-70487a248/" target="_blank">
